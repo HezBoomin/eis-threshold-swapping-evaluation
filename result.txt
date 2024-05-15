@@ -1,0 +1,480 @@
+
+Array Size: 10000
+Execution time for Classic Insertion Sort (test 1): 37
+Execution time for Enhanced With 1/3 (test 1): 54
+Execution time for Enhanced With 1/4 (test 1): 41
+Execution time for Enhanced With Log base e (test 1): 38
+
+Execution time for Classic Insertion Sort (test 2): 37
+Execution time for Enhanced With 1/3 (test 2): 38
+Execution time for Enhanced With 1/4 (test 2): 17
+Execution time for Enhanced With Log base e (test 2): 42
+
+Execution time for Classic Insertion Sort (test 3): 29
+Execution time for Enhanced With 1/3 (test 3): 34
+Execution time for Enhanced With 1/4 (test 3): 34
+Execution time for Enhanced With Log base e (test 3): 51
+
+Execution time for Classic Insertion Sort (test 4): 11
+Execution time for Enhanced With 1/3 (test 4): 36
+Execution time for Enhanced With 1/4 (test 4): 29
+Execution time for Enhanced With Log base e (test 4): 11
+
+Execution time for Classic Insertion Sort (test 5): 9
+Execution time for Enhanced With 1/3 (test 5): 32
+Execution time for Enhanced With 1/4 (test 5): 31
+Execution time for Enhanced With Log base e (test 5): 12
+
+Execution time for Classic Insertion Sort (test 6): 9
+Execution time for Enhanced With 1/3 (test 6): 32
+Execution time for Enhanced With 1/4 (test 6): 26
+Execution time for Enhanced With Log base e (test 6): 10
+
+Execution time for Classic Insertion Sort (test 7): 11
+Execution time for Enhanced With 1/3 (test 7): 30
+Execution time for Enhanced With 1/4 (test 7): 26
+Execution time for Enhanced With Log base e (test 7): 11
+
+Execution time for Classic Insertion Sort (test 8): 10
+Execution time for Enhanced With 1/3 (test 8): 32
+Execution time for Enhanced With 1/4 (test 8): 26
+Execution time for Enhanced With Log base e (test 8): 12
+
+Execution time for Classic Insertion Sort (test 9): 11
+Execution time for Enhanced With 1/3 (test 9): 34
+Execution time for Enhanced With 1/4 (test 9): 29
+Execution time for Enhanced With Log base e (test 9): 14
+
+Execution time for Classic Insertion Sort (test 10): 11
+Execution time for Enhanced With 1/3 (test 10): 33
+Execution time for Enhanced With 1/4 (test 10): 27
+Execution time for Enhanced With Log base e (test 10): 9
+
+Execution time for Classic Insertion Sort (test 11): 11
+Execution time for Enhanced With 1/3 (test 11): 34
+Execution time for Enhanced With 1/4 (test 11): 28
+Execution time for Enhanced With Log base e (test 11): 14
+
+Execution time for Classic Insertion Sort (test 12): 10
+Execution time for Enhanced With 1/3 (test 12): 28
+Execution time for Enhanced With 1/4 (test 12): 27
+Execution time for Enhanced With Log base e (test 12): 13
+
+Execution time for Classic Insertion Sort (test 13): 11
+Execution time for Enhanced With 1/3 (test 13): 29
+Execution time for Enhanced With 1/4 (test 13): 26
+Execution time for Enhanced With Log base e (test 13): 13
+
+Execution time for Classic Insertion Sort (test 14): 39
+Execution time for Enhanced With 1/3 (test 14): 79
+Execution time for Enhanced With 1/4 (test 14): 39
+Execution time for Enhanced With Log base e (test 14): 27
+
+Execution time for Classic Insertion Sort (test 15): 28
+Execution time for Enhanced With 1/3 (test 15): 73
+Execution time for Enhanced With 1/4 (test 15): 35
+Execution time for Enhanced With Log base e (test 15): 52
+
+Execution time for Classic Insertion Sort (test 16): 43
+Execution time for Enhanced With 1/3 (test 16): 52
+Execution time for Enhanced With 1/4 (test 16): 28
+Execution time for Enhanced With Log base e (test 16): 14
+
+Execution time for Classic Insertion Sort (test 17): 50
+Execution time for Enhanced With 1/3 (test 17): 69
+Execution time for Enhanced With 1/4 (test 17): 41
+Execution time for Enhanced With Log base e (test 17): 46
+
+Execution time for Classic Insertion Sort (test 18): 55
+Execution time for Enhanced With 1/3 (test 18): 75
+Execution time for Enhanced With 1/4 (test 18): 45
+Execution time for Enhanced With Log base e (test 18): 80
+
+Execution time for Classic Insertion Sort (test 19): 19
+Execution time for Enhanced With 1/3 (test 19): 100
+Execution time for Enhanced With 1/4 (test 19): 56
+Execution time for Enhanced With Log base e (test 19): 50
+
+Execution time for Classic Insertion Sort (test 20): 57
+Execution time for Enhanced With 1/3 (test 20): 70
+Execution time for Enhanced With 1/4 (test 20): 36
+Execution time for Enhanced With Log base e (test 20): 36
+
+
+Average Execution time For Classic Insertion Sort: 24
+Max Execution time For Classic Insertion Sort: 57
+Min Execution time For Classic Insertion Sort: 9
+
+Average Execution time For Enhanced With 1/3: 48
+Max Execution time For Enhanced With 1/3: 100
+Min Execution time For Enhanced With 1/3: 28
+
+
+Average Execution time For Enhanced With 1/4: 32
+Max Execution time For Enhanced With 1/4: 56
+Min Execution time For Enhanced With 1/4: 17
+
+Average Execution time For Enhanced With Log base e: 27
+Max Execution time For Enhanced With Log base e: 80
+Min Execution time For Enhanced With Log base e: 9
+
+
+Array Size: 50000
+Execution time for Classic Insertion Sort (test 1): 222
+Execution time for Enhanced With 1/3 (test 1): 874
+Execution time for Enhanced With 1/4 (test 1): 830
+Execution time for Enhanced With Log base e (test 1): 303
+
+Execution time for Classic Insertion Sort (test 2): 210
+Execution time for Enhanced With 1/3 (test 2): 815
+Execution time for Enhanced With 1/4 (test 2): 806
+Execution time for Enhanced With Log base e (test 2): 279
+
+Execution time for Classic Insertion Sort (test 3): 1185
+Execution time for Enhanced With 1/3 (test 3): 1471
+Execution time for Enhanced With 1/4 (test 3): 1628
+Execution time for Enhanced With Log base e (test 3): 529
+
+Execution time for Classic Insertion Sort (test 4): 1033
+Execution time for Enhanced With 1/3 (test 4): 1505
+Execution time for Enhanced With 1/4 (test 4): 1417
+Execution time for Enhanced With Log base e (test 4): 1131
+
+Execution time for Classic Insertion Sort (test 5): 1240
+Execution time for Enhanced With 1/3 (test 5): 1338
+Execution time for Enhanced With 1/4 (test 5): 1390
+Execution time for Enhanced With Log base e (test 5): 941
+
+Execution time for Classic Insertion Sort (test 6): 1027
+Execution time for Enhanced With 1/3 (test 6): 1432
+Execution time for Enhanced With 1/4 (test 6): 1369
+Execution time for Enhanced With Log base e (test 6): 1128
+
+Execution time for Classic Insertion Sort (test 7): 1120
+Execution time for Enhanced With 1/3 (test 7): 1404
+Execution time for Enhanced With 1/4 (test 7): 1370
+Execution time for Enhanced With Log base e (test 7): 1235
+
+Execution time for Classic Insertion Sort (test 8): 1104
+Execution time for Enhanced With 1/3 (test 8): 1419
+Execution time for Enhanced With 1/4 (test 8): 2443
+Execution time for Enhanced With Log base e (test 8): 2742
+
+Execution time for Classic Insertion Sort (test 9): 1904
+Execution time for Enhanced With 1/3 (test 9): 1359
+Execution time for Enhanced With 1/4 (test 9): 1375
+Execution time for Enhanced With Log base e (test 9): 1003
+
+Execution time for Classic Insertion Sort (test 10): 1532
+Execution time for Enhanced With 1/3 (test 10): 1594
+Execution time for Enhanced With 1/4 (test 10): 1395
+Execution time for Enhanced With Log base e (test 10): 836
+
+Execution time for Classic Insertion Sort (test 11): 1070
+Execution time for Enhanced With 1/3 (test 11): 1460
+Execution time for Enhanced With 1/4 (test 11): 1332
+Execution time for Enhanced With Log base e (test 11): 841
+
+Execution time for Classic Insertion Sort (test 12): 1341
+Execution time for Enhanced With 1/3 (test 12): 1300
+Execution time for Enhanced With 1/4 (test 12): 1278
+Execution time for Enhanced With Log base e (test 12): 862
+
+Execution time for Classic Insertion Sort (test 13): 928
+Execution time for Enhanced With 1/3 (test 13): 1330
+Execution time for Enhanced With 1/4 (test 13): 1439
+Execution time for Enhanced With Log base e (test 13): 1014
+
+Execution time for Classic Insertion Sort (test 14): 1140
+Execution time for Enhanced With 1/3 (test 14): 1468
+Execution time for Enhanced With 1/4 (test 14): 1490
+Execution time for Enhanced With Log base e (test 14): 871
+
+Execution time for Classic Insertion Sort (test 15): 1040
+Execution time for Enhanced With 1/3 (test 15): 1549
+Execution time for Enhanced With 1/4 (test 15): 1426
+Execution time for Enhanced With Log base e (test 15): 1140
+
+Execution time for Classic Insertion Sort (test 16): 1383
+Execution time for Enhanced With 1/3 (test 16): 1384
+Execution time for Enhanced With 1/4 (test 16): 1493
+Execution time for Enhanced With Log base e (test 16): 850
+
+Execution time for Classic Insertion Sort (test 17): 1107
+Execution time for Enhanced With 1/3 (test 17): 1449
+Execution time for Enhanced With 1/4 (test 17): 1321
+Execution time for Enhanced With Log base e (test 17): 1071
+
+Execution time for Classic Insertion Sort (test 18): 1169
+Execution time for Enhanced With 1/3 (test 18): 1428
+Execution time for Enhanced With 1/4 (test 18): 1475
+Execution time for Enhanced With Log base e (test 18): 1125
+
+Execution time for Classic Insertion Sort (test 19): 1159
+Execution time for Enhanced With 1/3 (test 19): 1563
+Execution time for Enhanced With 1/4 (test 19): 1441
+Execution time for Enhanced With Log base e (test 19): 1036
+
+Execution time for Classic Insertion Sort (test 20): 1114
+Execution time for Enhanced With 1/3 (test 20): 1454
+Execution time for Enhanced With 1/4 (test 20): 1628
+Execution time for Enhanced With Log base e (test 20): 1255
+
+
+Average Execution time For Classic Insertion Sort: 1101
+Max Execution time For Classic Insertion Sort: 1904
+Min Execution time For Classic Insertion Sort: 210
+
+Average Execution time For Enhanced With 1/3: 1379
+Max Execution time For Enhanced With 1/3: 1594
+Min Execution time For Enhanced With 1/3: 815
+
+
+Average Execution time For Enhanced With 1/4: 1417
+Max Execution time For Enhanced With 1/4: 2443
+Min Execution time For Enhanced With 1/4: 806
+
+Average Execution time For Enhanced With Log base e: 1009
+Max Execution time For Enhanced With Log base e: 2742
+Min Execution time For Enhanced With Log base e: 279
+
+
+Array Size: 100000
+Execution time for Classic Insertion Sort (test 1): 5155
+Execution time for Enhanced With 1/3 (test 1): 6169
+Execution time for Enhanced With 1/4 (test 1): 6209
+Execution time for Enhanced With Log base e (test 1): 4663
+
+Execution time for Classic Insertion Sort (test 2): 4568
+Execution time for Enhanced With 1/3 (test 2): 5924
+Execution time for Enhanced With 1/4 (test 2): 6179
+Execution time for Enhanced With Log base e (test 2): 4672
+
+Execution time for Classic Insertion Sort (test 3): 5091
+Execution time for Enhanced With 1/3 (test 3): 6160
+Execution time for Enhanced With 1/4 (test 3): 6191
+Execution time for Enhanced With Log base e (test 3): 4705
+
+Execution time for Classic Insertion Sort (test 4): 5136
+Execution time for Enhanced With 1/3 (test 4): 6284
+Execution time for Enhanced With 1/4 (test 4): 6428
+Execution time for Enhanced With Log base e (test 4): 4748
+
+Execution time for Classic Insertion Sort (test 5): 5218
+Execution time for Enhanced With 1/3 (test 5): 5867
+Execution time for Enhanced With 1/4 (test 5): 5340
+Execution time for Enhanced With Log base e (test 5): 3668
+
+Execution time for Classic Insertion Sort (test 6): 4144
+Execution time for Enhanced With 1/3 (test 6): 5436
+Execution time for Enhanced With 1/4 (test 6): 5620
+Execution time for Enhanced With Log base e (test 6): 3899
+
+Execution time for Classic Insertion Sort (test 7): 4623
+Execution time for Enhanced With 1/3 (test 7): 5849
+Execution time for Enhanced With 1/4 (test 7): 10347
+Execution time for Enhanced With Log base e (test 7): 10524
+
+Execution time for Classic Insertion Sort (test 8): 11493
+Execution time for Enhanced With 1/3 (test 8): 11709
+Execution time for Enhanced With 1/4 (test 8): 5242
+Execution time for Enhanced With Log base e (test 8): 3808
+
+Execution time for Classic Insertion Sort (test 9): 4036
+Execution time for Enhanced With 1/3 (test 9): 5801
+Execution time for Enhanced With 1/4 (test 9): 5808
+Execution time for Enhanced With Log base e (test 9): 9321
+
+Execution time for Classic Insertion Sort (test 10): 11835
+Execution time for Enhanced With 1/3 (test 10): 15038
+Execution time for Enhanced With 1/4 (test 10): 15364
+Execution time for Enhanced With Log base e (test 10): 11243
+
+Execution time for Classic Insertion Sort (test 11): 12262
+Execution time for Enhanced With 1/3 (test 11): 15401
+Execution time for Enhanced With 1/4 (test 11): 15102
+Execution time for Enhanced With Log base e (test 11): 11578
+
+Execution time for Classic Insertion Sort (test 12): 13285
+Execution time for Enhanced With 1/3 (test 12): 14570
+Execution time for Enhanced With 1/4 (test 12): 15191
+Execution time for Enhanced With Log base e (test 12): 10736
+
+Execution time for Classic Insertion Sort (test 13): 12239
+Execution time for Enhanced With 1/3 (test 13): 12912
+Execution time for Enhanced With 1/4 (test 13): 15102
+Execution time for Enhanced With Log base e (test 13): 11342
+
+Execution time for Classic Insertion Sort (test 14): 12153
+Execution time for Enhanced With 1/3 (test 14): 14880
+Execution time for Enhanced With 1/4 (test 14): 15133
+Execution time for Enhanced With Log base e (test 14): 11294
+
+Execution time for Classic Insertion Sort (test 15): 11818
+Execution time for Enhanced With 1/3 (test 15): 14968
+Execution time for Enhanced With 1/4 (test 15): 15128
+Execution time for Enhanced With Log base e (test 15): 10384
+
+Execution time for Classic Insertion Sort (test 16): 10852
+Execution time for Enhanced With 1/3 (test 16): 15008
+Execution time for Enhanced With 1/4 (test 16): 14926
+Execution time for Enhanced With Log base e (test 16): 10999
+
+Execution time for Classic Insertion Sort (test 17): 11281
+Execution time for Enhanced With 1/3 (test 17): 14977
+Execution time for Enhanced With 1/4 (test 17): 14716
+Execution time for Enhanced With Log base e (test 17): 10760
+
+Execution time for Classic Insertion Sort (test 18): 11944
+Execution time for Enhanced With 1/3 (test 18): 14958
+Execution time for Enhanced With 1/4 (test 18): 15032
+Execution time for Enhanced With Log base e (test 18): 11066
+
+Execution time for Classic Insertion Sort (test 19): 12061
+Execution time for Enhanced With 1/3 (test 19): 15017
+Execution time for Enhanced With 1/4 (test 19): 15589
+Execution time for Enhanced With Log base e (test 19): 11020
+
+Execution time for Classic Insertion Sort (test 20): 12079
+Execution time for Enhanced With 1/3 (test 20): 14894
+Execution time for Enhanced With 1/4 (test 20): 15052
+Execution time for Enhanced With Log base e (test 20): 11220
+
+
+Average Execution time For Classic Insertion Sort: 9063
+Max Execution time For Classic Insertion Sort: 13285
+Min Execution time For Classic Insertion Sort: 4036
+
+Average Execution time For Enhanced With 1/3: 11091
+Max Execution time For Enhanced With 1/3: 15401
+Min Execution time For Enhanced With 1/3: 5436
+
+
+Average Execution time For Enhanced With 1/4: 11184
+Max Execution time For Enhanced With 1/4: 15589
+Min Execution time For Enhanced With 1/4: 5242
+
+Average Execution time For Enhanced With Log base e: 8582
+Max Execution time For Enhanced With Log base e: 11578
+Min Execution time For Enhanced With Log base e: 3668
+
+
+Array Size: 500000
+Execution time for Classic Insertion Sort (test 1): 206365
+Execution time for Enhanced With 1/3 (test 1): 168104
+Execution time for Enhanced With 1/4 (test 1): 242510
+Execution time for Enhanced With Log base e (test 1): 266317
+
+Execution time for Classic Insertion Sort (test 2): 294236
+Execution time for Enhanced With 1/3 (test 2): 264191
+Execution time for Enhanced With 1/4 (test 2): 141899
+Execution time for Enhanced With Log base e (test 2): 79022
+
+Execution time for Classic Insertion Sort (test 3): 215180
+Execution time for Enhanced With 1/3 (test 3): 127672
+Execution time for Enhanced With 1/4 (test 3): 3155445
+Execution time for Enhanced With Log base e (test 3): 131656
+
+Execution time for Classic Insertion Sort (test 4): 232924
+Execution time for Enhanced With 1/3 (test 4): 361257
+Execution time for Enhanced With 1/4 (test 4): 2136755
+Execution time for Enhanced With Log base e (test 4): 265124
+
+Execution time for Classic Insertion Sort (test 5): 1513034
+Execution time for Enhanced With 1/3 (test 5): 267171
+Execution time for Enhanced With 1/4 (test 5): 138566
+Execution time for Enhanced With Log base e (test 5): 68255
+
+Execution time for Classic Insertion Sort (test 6): 433608
+Execution time for Enhanced With 1/3 (test 6): 105560
+Execution time for Enhanced With 1/4 (test 6): 100013
+Execution time for Enhanced With Log base e (test 6): 70979
+
+Execution time for Classic Insertion Sort (test 7): 77277
+Execution time for Enhanced With 1/3 (test 7): 90039
+Execution time for Enhanced With 1/4 (test 7): 94189
+Execution time for Enhanced With Log base e (test 7): 65415
+
+Execution time for Classic Insertion Sort (test 8): 67125
+Execution time for Enhanced With 1/3 (test 8): 89494
+Execution time for Enhanced With 1/4 (test 8): 96630
+Execution time for Enhanced With Log base e (test 8): 68949
+
+Execution time for Classic Insertion Sort (test 9): 71776
+Execution time for Enhanced With 1/3 (test 9): 88884
+Execution time for Enhanced With 1/4 (test 9): 326819
+Execution time for Enhanced With Log base e (test 9): 154145
+
+Execution time for Classic Insertion Sort (test 10): 146509
+Execution time for Enhanced With 1/3 (test 10): 251709
+Execution time for Enhanced With 1/4 (test 10): 155482
+Execution time for Enhanced With Log base e (test 10): 200281
+
+Execution time for Classic Insertion Sort (test 11): 151049
+Execution time for Enhanced With 1/3 (test 11): 96345
+Execution time for Enhanced With 1/4 (test 11): 96066
+Execution time for Enhanced With Log base e (test 11): 75031
+
+Execution time for Classic Insertion Sort (test 12): 89066
+Execution time for Enhanced With 1/3 (test 12): 94403
+Execution time for Enhanced With 1/4 (test 12): 95570
+Execution time for Enhanced With Log base e (test 12): 71857
+
+Execution time for Classic Insertion Sort (test 13): 81253
+Execution time for Enhanced With 1/3 (test 13): 92871
+Execution time for Enhanced With 1/4 (test 13): 92524
+Execution time for Enhanced With Log base e (test 13): 64795
+
+Execution time for Classic Insertion Sort (test 14): 75540
+Execution time for Enhanced With 1/3 (test 14): 92414
+Execution time for Enhanced With 1/4 (test 14): 92387
+Execution time for Enhanced With Log base e (test 14): 64417
+
+Execution time for Classic Insertion Sort (test 15): 71863
+Execution time for Enhanced With 1/3 (test 15): 88023
+Execution time for Enhanced With 1/4 (test 15): 90207
+Execution time for Enhanced With Log base e (test 15): 63163
+
+Execution time for Classic Insertion Sort (test 16): 66797
+Execution time for Enhanced With 1/3 (test 16): 88110
+Execution time for Enhanced With 1/4 (test 16): 91077
+Execution time for Enhanced With Log base e (test 16): 67189
+
+Execution time for Classic Insertion Sort (test 17): 74199
+Execution time for Enhanced With 1/3 (test 17): 90147
+Execution time for Enhanced With 1/4 (test 17): 94577
+Execution time for Enhanced With Log base e (test 17): 66877
+
+Execution time for Classic Insertion Sort (test 18): 72413
+Execution time for Enhanced With 1/3 (test 18): 91423
+Execution time for Enhanced With 1/4 (test 18): 91413
+Execution time for Enhanced With Log base e (test 18): 76602
+
+Execution time for Classic Insertion Sort (test 19): 85511
+Execution time for Enhanced With 1/3 (test 19): 95542
+Execution time for Enhanced With 1/4 (test 19): 100716
+Execution time for Enhanced With Log base e (test 19): 66461
+
+Execution time for Classic Insertion Sort (test 20): 75472
+Execution time for Enhanced With 1/3 (test 20): 89104
+Execution time for Enhanced With 1/4 (test 20): 88740
+Execution time for Enhanced With Log base e (test 20): 66057
+
+
+Average Execution time For Classic Insertion Sort: 205059
+Max Execution time For Classic Insertion Sort: 1513034
+Min Execution time For Classic Insertion Sort: 66797
+
+Average Execution time For Enhanced With 1/3: 136623
+Max Execution time For Enhanced With 1/3: 361257
+Min Execution time For Enhanced With 1/3: 88023
+
+
+Average Execution time For Enhanced With 1/4: 376079
+Max Execution time For Enhanced With 1/4: 3155445
+Min Execution time For Enhanced With 1/4: 88740
+
+Average Execution time For Enhanced With Log base e: 102629
+Max Execution time For Enhanced With Log base e: 266317
+Min Execution time For Enhanced With Log base e: 63163
+
